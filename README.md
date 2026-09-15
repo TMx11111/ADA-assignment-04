@@ -1,6 +1,6 @@
 # Assignment 4
 
-Open **Assignment04 - 副本.ipynb** and run its cells in order, or run the equivalent
+Open **Assignment04 - .ipynb** and run its cells in order, or run the equivalent
 single Python file from the workspace root:
 
 ```powershell
